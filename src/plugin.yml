@@ -1,0 +1,8 @@
+main: me.dank.mega.Main
+name: megahit
+author: MrEggNoggin
+version: 1.0
+
+api-version: 1.16
+
+commands:
